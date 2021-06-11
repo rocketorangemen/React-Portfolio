@@ -1,12 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import Header from "../src/components/Header";
+import Hero from "../src/components/Hero";
+import Body from "../src/components/Body";
+import Footer from "../src/components/Footer";
 
 function App() {
   return (
     <div className="App">
-      <Header/>
+      {/* <Header/>
       <Hero/>
-      <Body/>
+      <Body/> */}
       <Footer/>
     </div>
   );
