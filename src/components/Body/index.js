@@ -1,4 +1,6 @@
 import React from 'react';
+import "../Portfolio.css";
+import "../images/iCamp.png"
 
 function Body () {
     return (
@@ -13,8 +15,7 @@ function Body () {
     <p>Front-End Project</p>
   </div>
     <a href="https://dragoonkite.github.io/iCamp/">
-        <img src="./assets/images/iCamp.png" alt="icamp">
-            </img>
+        <img src={require('../images/iCamp.png')} alt="icamp"/>
         </a>
   </div>
   <div class="work-item work-item-2">
@@ -23,7 +24,7 @@ function Body () {
     <p>Javascript</p>
   </div>
   <a href="https://github.com/rocketorangemen/Password-Generator">
-      <img src="./assets/images/generator.png" alt="Password-Generator">
+      <img src="../images/generator.png" alt="Password-Generator">
           </img>
       </a>
   </div>
@@ -42,14 +43,14 @@ function Body () {
     <h3>Horiseon</h3>
     <p>Refactoring HTML</p>
   </div>
-  <a href="https://github.com/DragoonKite/eat-out-austin"><img src="./assets/images/screenshot.png" alt="Eat-Out-Austin"></img></a>
+  <a href="https://github.com/DragoonKite/eat-out-austin"><img src="../images/screenshot.png" alt="Eat-Out-Austin"></img></a>
   </div>
   <div class="work-item work-item-5">
     <div>
     <h3>RUN Buddy</h3>
     <p>HTML/CSS</p>
   </div>
-  <a href="https://github.com/rocketorangemen/run-buddy"><img src="./assets/images/item-55.jpg" alt="Run Buddy Website"></img></a>
+  <a href="https://github.com/rocketorangemen/run-buddy"><img src="./images/item-55.jpg" alt="Run Buddy Website"></img></a>
   </div>
   </div>
   </div>
