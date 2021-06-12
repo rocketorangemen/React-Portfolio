@@ -20,21 +20,21 @@ function Body () {
   </div>
   <div class="work-item work-item-2">
     <div>
-    <h3>Password-Generator</h3>
-    <p>Javascript</p>
+    <h3>Beer Me</h3>
+    <p>MERN App</p>
   </div>
-  <a href="https://github.com/rocketorangemen/Password-Generator">
-      <img src="../images/generator.png" alt="Password-Generator">
+  <a href="https://github.com/blueink38/beer-me">
+      <img src="../images/generator.png" alt="Beer Me">
           </img>
       </a>
   </div>
   <div class="work-item work-item-3">
     <div>
-    <h3>weather-Dashboard</h3>
-    <p>Server-side API calls</p>
+    <h3>Eat Out, Austin</h3>
+    <p>MongoDB</p>
   </div>
-  <a href="https://rocketorangemen.github.io/weather-dashboard/">
-      <img src="./assets/images/weather.png" alt="weather-dashboard">
+  <a href="https://github.com/DragoonKite/eat-out-austin">
+      <img src="" alt="">
           </img>
       </a>
   </div>
