@@ -17,7 +17,7 @@ function Hero () {
         </div>
         <div class="text">
           <p>
-            My name is Ramon Flowers and I am an aspiring software developer who is looking forward to showcasing my skills and experience with the technology industry.
+            My name is Ramon Flowers and I am an aspiring software developer who is looking forward to showcasing my skills and experience within the tech industry.
           </p>
           <br/>
           <p>

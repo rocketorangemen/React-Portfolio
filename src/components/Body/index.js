@@ -1,6 +1,6 @@
 import React from 'react';
 import "../Portfolio.css";
-import "../images/iCamp.png"
+import "../images/iCamp.png";
 
 function Body () {
     return (
