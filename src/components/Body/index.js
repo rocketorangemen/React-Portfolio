@@ -1,6 +1,6 @@
 import React from 'react';
 import "../Portfolio.css";
-import "../images/iCamp.png";
+import "../images/iCamp1.png";
 
 function Body () {
     return (
@@ -15,7 +15,7 @@ function Body () {
     <p>Front-End Project</p>
   </div>
     <a href="https://dragoonkite.github.io/iCamp/">
-        <img src={require('../images/iCamp.png')} alt="icamp"/>
+        <img src={require('../images/iCamp1.png')} alt="icamp"/>
         </a>
   </div>
   <div class="work-item work-item-2">
