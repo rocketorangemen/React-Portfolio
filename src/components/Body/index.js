@@ -24,7 +24,7 @@ function Body () {
     <p>MERN App</p>
   </div>
   <a href="https://github.com/blueink38/beer-me">
-      <img src="../images/generator.png" alt="Beer Me">
+      <img src="../images/generator.png" alt="Beer-Me">
           </img>
       </a>
   </div>
@@ -40,7 +40,7 @@ function Body () {
   </div>
   <div class="work-item work-item-4">
     <div>
-    <h3>Horiseon</h3>
+    <h3>NANAANA</h3>
     <p>Refactoring HTML</p>
   </div>
   <a href="https://github.com/DragoonKite/eat-out-austin"><img src="../images/screenshot.png" alt="Eat-Out-Austin"></img></a>
