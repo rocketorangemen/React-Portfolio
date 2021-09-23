@@ -40,7 +40,7 @@ function Body () {
   </div>
   <div class="work-item work-item-4">
     <div>
-    <h3>NANAANA</h3>
+    <h3>NANAA</h3>
     <p>Refactoring HTML</p>
   </div>
   <a href="https://github.com/DragoonKite/eat-out-austin"><img src="../images/screenshot.png" alt="Eat-Out-Austin"></img></a>
