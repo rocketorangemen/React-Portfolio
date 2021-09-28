@@ -21,13 +21,7 @@ function Hero () {
           </p>
           <br/>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam
-            praesentium animi consequatur iusto facere laudantium nesciunt enim
-            at ipsum. Modi recusandae esse quisquam amet nostrum corrupti ex
-            eligendi rerum officiis. Lorem ipsum dolor, sit amet consectetur
-            adipisicing elit. Ipsam soluta facilis, ea temporibus, ducimus amet
-            impedit adipisci velit nam, at libero dolores! Atque nulla quas
-            explicabo veritatis repellendus minima nemo!
+            After attending the University of Mary-Hardin Baylor for 1 year to play football, I returned to my hometown of Corpus Christi to work for a few years. I saw many opportunities in Austin and decided to move here in 2018. I've worked in communications for about 4 years and I enjoy the process of solving problems I decided that I wanted to work in the tech/software industry. I completed a Full Stack Web Development Boot Camp at the University of Texas at Austin and received my certificate in June 2021. I became a first time parent after completing the boot camp and it has been amazing, despite the limited sleeping hours. I am actively learning and increasing my skills in a creating a full stack application. Thank you for your time!
           </p>
         </div>
       </div>
