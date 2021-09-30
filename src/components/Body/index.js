@@ -41,7 +41,7 @@ function Body () {
   <div class="work-item work-item-4">
     <div>
     <h3>My Life Project</h3>
-    <p>Full stack React app</p>
+    <p>Full stack React app/Solo Project</p>
   </div>
   <a href="https://github.com/DragoonKite/eat-out-austin"><img src="../images/screenshot.png" alt="Eat-Out-Austin"></img></a>
   </div>
