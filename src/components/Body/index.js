@@ -11,9 +11,12 @@ function Body () {
         <div class="main-grid">
   <div class="work-item work-item-1">
     <div>
-    <h3>iCamp</h3>
-    <p>Front-End Project</p>
+    <h3>My Life Project</h3>
+    <p>Full Stack Application</p>
   </div>
+  <a href="/">
+    <img></img>
+  </a>
     <a href="https://dragoonkite.github.io/iCamp/">
         <img src="../images/iCamp1.png" alt="icamp"/>
         </a>
