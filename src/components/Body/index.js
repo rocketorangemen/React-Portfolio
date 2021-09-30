@@ -21,7 +21,7 @@ function Body () {
   <div class="work-item work-item-2">
     <div>
     <h3>Beer Me</h3>
-    <p>MERN App</p>
+    <p>MERN App/Group Project</p>
   </div>
   <a href="https://github.com/blueink38/beer-me">
       <img src="../images/generator.png" alt="Beer-Me">
@@ -31,7 +31,7 @@ function Body () {
   <div class="work-item work-item-3">
     <div>
     <h3>Eat Out, Austin</h3>
-    <p>MongoDB</p>
+    <p>MongoDB/Group Project</p>
   </div>
   <a href="https://github.com/DragoonKite/eat-out-austin">
       <img src="" alt="">
