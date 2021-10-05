@@ -18,7 +18,7 @@ function Body () {
     <img></img>
   </a>
     <a href="https://dragoonkite.github.io/iCamp/">
-        <img src="../images/iCamp1.png" alt="icamp"/>
+        <img src={require('../images/iCamp1.png')} alt="icamp"/>
         </a>
   </div>
   <div class="work-item work-item-2">
