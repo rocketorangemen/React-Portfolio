@@ -15,7 +15,7 @@ function Body () {
     <p>Full Stack Application</p>
   </div>
   <a href="/">
-    <img></img>
+    <img alt="nada"></img>
   </a>
     <a href="https://dragoonkite.github.io/iCamp/">
         <img src={require('../images/iCamp1.png')} alt="icamp"/>
