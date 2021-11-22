@@ -18,7 +18,7 @@ function Footer() {
             </li>
             <li>
               <a href="https://www.facebook.com/ramonanthonyflowers"
-                >Facebook</a>
+                >Facebook (deactivated)</a>
             </li>
             <li>
               <a href="https://www.linkedin.com/in/ramon-flowers">LinkedIn</a>

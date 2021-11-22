@@ -11,9 +11,9 @@ function Header () {
           <li>
             <a href="#about">About Me</a>
           </li>
-          <li>
+          {/* <li>
             <a href="#work-section">Work</a>
-          </li>
+          </li> */}
           <li>
             <a href="#contact">Contact Info</a>
           </li>
